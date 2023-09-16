@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "4dj7mos2R7eKgVnPMFHznPPMQ3y3g7m9Za3jbn0qmuT80NhUVn1+3mTDlFX/YKtO71KiPQAhIkEKwmGTmD6K1Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Austria.174768\\Source\\Repos\\CalculatorApplication\\CalculatorApplication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Austria.174768\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Austria.174768\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Austria.174768\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Austria.174768\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
